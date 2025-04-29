@@ -343,7 +343,7 @@ while running:
     # Update the display
     pygame.display.flip()
 
-# C:\Users\HP\AppData\Local\Programs\Python\Python313\Scripts\pyinstaller --onefile "C:\Users\HP\OneDrive - Florida Gulf Coast University\Apps\flashcards-app\main.py"
+# C:\Users\HP\AppData\Local\Programs\Python\Python313\Scripts\pyinstaller --noconsole --onefile "C:\Users\HP\OneDrive - Florida Gulf Coast University\Apps\flashcards-app\main.py"
 
 # Quit Pygame
 pygame.quit()

@@ -17,7 +17,11 @@ Using Firefox or Chrome, go to Student Photos within your Canvas course.
 
 Right click on the page and choose *Save as...*
 
+Download and run the main.exe file.
+
 With the program running, click the *Choose Class* button and navigate to and select the Student Photos_files folder.
+
+Works with full name or just first name.
 
 ## Built With
 
